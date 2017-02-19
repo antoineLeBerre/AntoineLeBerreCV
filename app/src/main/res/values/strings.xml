@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AntoineLeBerreCV</string>
+    <string name="titre">Bienvenue sur mon portfolio</string>
+    <string name="competence">Mes compétentces</string>
+    <string name="projet">Mes projets</string>
+    <string name="cv">Mon CV</string>
+    <string name="contact">Me contacter</string>
+</resources>
